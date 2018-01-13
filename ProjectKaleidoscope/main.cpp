@@ -5,7 +5,6 @@
 
 #define GL3_PROTOTYPES 1
 #include <SDL.h>
-
 #include <glew.h>
 
 
